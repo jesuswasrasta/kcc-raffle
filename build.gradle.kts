@@ -2,8 +2,8 @@ group = "it.intre"
 version = "2.0-SNAPSHOT"
 
 plugins {
-    id("org.jetbrains.kotlin.jvm") version "1.8.10"
-    id("org.openjfx.javafxplugin") version "0.0.9"
+    id("org.jetbrains.kotlin.jvm") version "1.9.22"
+    id("org.openjfx.javafxplugin") version "0.1.0"
 
     application
 }
@@ -21,6 +21,7 @@ dependencies {
 }
 
 javafx {
+    version = "21.0.2"
     modules("javafx.controls", "javafx.fxml")
 }
 
@@ -30,4 +31,20 @@ application {
 
 tasks.named<Test>("test") {
     useJUnitPlatform()
+}
+
+java {
+    toolchain {
+        languageVersion.set(JavaLanguageVersion.of(21))
+    }
+}
+
+kotlin {
+    jvmToolchain(21)
+}
+
+tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
+    kotlinOptions {
+        jvmTarget = "21"
+    }
 }
