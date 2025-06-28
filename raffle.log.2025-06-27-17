@@ -1,0 +1,117 @@
+DEBUG 2025-06-27 17:44:27,434 | +++ Next prize is: 1 year JetBrains Licence (Offered by Jetbrains)
+DEBUG 2025-06-27 17:45:14,175 | >>> Alberto Picco has won 1 year JetBrains Licence (Offered by Jetbrains)
+TRACE 2025-06-27 17:45:14,177 | >>> Mail: alberto.picco.86@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:45:14,177 | +++ Next prize is: Notebook (Offered by Codice Plastico)
+DEBUG 2025-06-27 17:45:48,690 | --- Prize was rejected by Fabio Serra
+DEBUG 2025-06-27 17:46:10,905 | >>> Matteo Benedetti has won Notebook (Offered by Codice Plastico)
+TRACE 2025-06-27 17:46:10,907 | >>> Mail: matteo@serenis.it | Prize secret: 
+DEBUG 2025-06-27 17:46:10,907 | +++ Next prize is: Calze Merry Christmas (Offered by Intrè)
+DEBUG 2025-06-27 17:46:36,421 | >>> Mauro Davì has won Calze Merry Christmas (Offered by Intrè)
+TRACE 2025-06-27 17:46:36,423 | >>> Mail: mauro.davi@alpitronic.it | Prize secret: 
+DEBUG 2025-06-27 17:46:36,423 | +++ Next prize is: Sport T-shirt Nike  ("Offered by Intré)
+DEBUG 2025-06-27 17:47:09,938 | >>> Christian Rocchetti has won Sport T-shirt Nike  ("Offered by Intré)
+TRACE 2025-06-27 17:47:09,940 | >>> Mail: rocchettichristian@gmail.com | Prize secret: nike.jpg
+DEBUG 2025-06-27 17:47:09,940 | +++ Next prize is: Sport Towel ("Offered by Golee)
+DEBUG 2025-06-27 17:48:02,421 | --- Prize was rejected by Gabriele Mazzola
+DEBUG 2025-06-27 17:48:28,221 | >>> Marco Consolaro has won Sport Towel ("Offered by Golee)
+TRACE 2025-06-27 17:48:28,224 | >>> Mail: marco@alcortech.net | Prize secret: towel.jpg
+DEBUG 2025-06-27 17:48:28,224 | +++ Next prize is: Wirelss Charger (Offered by Vianova)
+DEBUG 2025-06-27 17:49:06,420 | --- Prize was rejected by Giuseppe Zangari
+DEBUG 2025-06-27 17:49:24,203 | >>> Lorenzo Tullini has won Wirelss Charger (Offered by Vianova)
+TRACE 2025-06-27 17:49:24,205 | >>> Mail: tullini.lorenzo@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:49:24,205 | +++ Next prize is: Water Bottle (Offered by Golee)
+DEBUG 2025-06-27 17:49:50,736 | >>> Luca Neri has won Water Bottle (Offered by Golee)
+TRACE 2025-06-27 17:49:50,738 | >>> Mail: luca.neri@sacmigroup.com | Prize secret: 
+DEBUG 2025-06-27 17:49:50,738 | +++ Next prize is: Cap (Offered by Qomodo)
+DEBUG 2025-06-27 17:50:10,135 | >>> Fabio Canovi has won Cap (Offered by Qomodo)
+TRACE 2025-06-27 17:50:10,137 | >>> Mail: fabio.canovi@tinextainnovationhub.com | Prize secret: 
+DEBUG 2025-06-27 17:50:10,137 | +++ Next prize is: Water Bottle (Offered by QMates)
+DEBUG 2025-06-27 17:50:33,052 | >>> Eddaha Eddaha has won Water Bottle (Offered by QMates)
+TRACE 2025-06-27 17:50:33,055 | >>> Mail: rachideddaha199.ra@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:50:33,055 | +++ Next prize is: Bag (Offered by Codice Plastico)
+DEBUG 2025-06-27 17:51:02,919 | --- Prize was rejected by Beatrice Tagliafierro
+DEBUG 2025-06-27 17:51:17,151 | >>> Samuele Lain has won Bag (Offered by Codice Plastico)
+TRACE 2025-06-27 17:51:17,153 | >>> Mail: samuele0081@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:51:17,153 | +++ Next prize is: Thermal Mug (Offered by Codice Plastico)
+DEBUG 2025-06-27 17:51:36,251 | --- Prize was rejected by Marco Risi
+DEBUG 2025-06-27 17:51:45,634 | --- Prize was rejected by Claudio Dalla Francesca
+DEBUG 2025-06-27 17:51:55,751 | >>> Federico Moretto has won Thermal Mug (Offered by Codice Plastico)
+TRACE 2025-06-27 17:51:55,752 | >>> Mail: federico.moretto@cgn.it | Prize secret: 
+DEBUG 2025-06-27 17:51:55,753 | +++ Next prize is: Notebook (Offered by Codice Plastico)
+DEBUG 2025-06-27 17:52:13,817 | >>> Barbara Giberti has won Notebook (Offered by Codice Plastico)
+TRACE 2025-06-27 17:52:13,819 | >>> Mail: bgiberti@coders51.com | Prize secret: 
+DEBUG 2025-06-27 17:52:13,819 | +++ Next prize is: Seaside Rackets (Offered by Aruba Kube)
+DEBUG 2025-06-27 17:52:43,767 | >>> Cristian Predieri has won Seaside Rackets (Offered by Aruba Kube)
+TRACE 2025-06-27 17:52:43,769 | >>> Mail: prediericristian2@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:52:43,769 | +++ Next prize is: 1 year JetBrains Licence (Offered by Jetbrains)
+DEBUG 2025-06-27 17:53:11,068 | >>> Giovanni Bruno has won 1 year JetBrains Licence (Offered by Jetbrains)
+TRACE 2025-06-27 17:53:11,071 | >>> Mail: giovanni@polarity.dev | Prize secret: 
+DEBUG 2025-06-27 17:53:11,071 | +++ Next prize is: Seaside Rackets (Offered by Aruba Kube)
+DEBUG 2025-06-27 17:53:40,066 | --- Prize was rejected by Michele Biondi
+DEBUG 2025-06-27 17:53:48,432 | --- Prize was rejected by Enrico Rossini
+DEBUG 2025-06-27 17:54:03,283 | --- Prize was rejected by EMANUELE FRICANO
+DEBUG 2025-06-27 17:54:11,649 | --- Prize was rejected by Vincenzo Altimari
+DEBUG 2025-06-27 17:54:20,799 | --- Prize was rejected by Luca Bedogni
+DEBUG 2025-06-27 17:54:28,016 | --- Prize was rejected by Stefano Battistelli
+DEBUG 2025-06-27 17:54:37,549 | >>> Marco Fracassi has won Seaside Rackets (Offered by Aruba Kube)
+TRACE 2025-06-27 17:54:37,551 | >>> Mail: fracassi.marco@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:54:37,551 | +++ Next prize is: Calze Merry Christmas (Offered by Intrè)
+DEBUG 2025-06-27 17:54:47,999 | --- Prize was rejected by Marco Righi
+DEBUG 2025-06-27 17:55:03,216 | >>> Ferdinando Santacroce has won Calze Merry Christmas (Offered by Intrè)
+TRACE 2025-06-27 17:55:03,217 | >>> Mail: ferdinando.santacroce@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:55:03,218 | +++ Next prize is: Water Bottle (Offered by Golee)
+DEBUG 2025-06-27 17:55:15,198 | >>> Mattia Ferrari has won Water Bottle (Offered by Golee)
+TRACE 2025-06-27 17:55:15,200 | >>> Mail: mattia2002.ferrari@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:55:15,200 | +++ Next prize is: Sport T-shirt Nike  ("Offered by Intré)
+DEBUG 2025-06-27 17:55:37,348 | --- Prize was rejected by Alex Pinarello
+DEBUG 2025-06-27 17:55:49,414 | >>> Pietro Roversi has won Sport T-shirt Nike  ("Offered by Intré)
+TRACE 2025-06-27 17:55:49,416 | >>> Mail: pietro.roversi@evoluzione.agency | Prize secret: nike.jpg
+DEBUG 2025-06-27 17:55:49,416 | +++ Next prize is: Sport Towel ("Offered by Golee)
+DEBUG 2025-06-27 17:56:01,048 | --- Prize was rejected by Massimo Guida
+DEBUG 2025-06-27 17:56:06,114 | --- Prize was rejected by Andrea Pinelli
+DEBUG 2025-06-27 17:56:10,815 | --- Prize was rejected by Omar Piga
+DEBUG 2025-06-27 17:56:16,647 | --- Prize was rejected by ENRICO GUIDA
+DEBUG 2025-06-27 17:56:29,647 | >>> Riccardo Rispoli has won Sport Towel ("Offered by Golee)
+TRACE 2025-06-27 17:56:29,649 | >>> Mail: riccardo.rispoli@polarity.dev | Prize secret: towel.jpg
+DEBUG 2025-06-27 17:56:29,649 | +++ Next prize is: Bag (Offered by Codice Plastico)
+DEBUG 2025-06-27 17:56:39,398 | --- Prize was rejected by Marco Pirruccio
+DEBUG 2025-06-27 17:56:44,415 | >>> stefano manicardi has won Bag (Offered by Codice Plastico)
+TRACE 2025-06-27 17:56:44,415 | >>> Mail: stefano.manicardi@tinextainnovationhub.com | Prize secret: 
+DEBUG 2025-06-27 17:56:44,416 | +++ Next prize is: Sport T-shirt Nike  ("Offered by Intré)
+DEBUG 2025-06-27 17:56:58,464 | --- Prize was rejected by Blendi Gashi
+DEBUG 2025-06-27 17:57:13,147 | >>> Matteo Ottavio Ottavio has won Sport T-shirt Nike  ("Offered by Intré)
+TRACE 2025-06-27 17:57:13,148 | >>> Mail: ottaviomatteo@hotmail.it | Prize secret: nike.jpg
+DEBUG 2025-06-27 17:57:13,148 | +++ Next prize is: Sport Towel ("Offered by Golee)
+DEBUG 2025-06-27 17:57:21,230 | >>> Gianni Bossini has won Sport Towel ("Offered by Golee)
+TRACE 2025-06-27 17:57:21,232 | >>> Mail: Bossini.gianni@gmail.com | Prize secret: towel.jpg
+DEBUG 2025-06-27 17:57:21,232 | +++ Next prize is: 1 year JetBrains Licence (Offered by Jetbrains)
+DEBUG 2025-06-27 17:57:30,030 | >>> Luca Castelnovo has won 1 year JetBrains Licence (Offered by Jetbrains)
+TRACE 2025-06-27 17:57:30,032 | >>> Mail: luca@monade.io | Prize secret: 
+DEBUG 2025-06-27 17:57:30,032 | +++ Next prize is: Cap (Offered by Qomodo)
+DEBUG 2025-06-27 17:58:02,680 | >>> Sara Lissignoli has won Cap (Offered by Qomodo)
+TRACE 2025-06-27 17:58:02,682 | >>> Mail: saralissi404@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:58:02,682 | +++ Next prize is: Calze Merry Christmas (Offered by Intrè)
+DEBUG 2025-06-27 17:58:11,679 | --- Prize was rejected by Yuri Valentini
+DEBUG 2025-06-27 17:58:31,579 | >>> Gabriele Campi has won Calze Merry Christmas (Offered by Intrè)
+TRACE 2025-06-27 17:58:31,581 | >>> Mail: gabriele.campi+events@gmail.com | Prize secret: 
+DEBUG 2025-06-27 17:58:31,581 | +++ Next prize is: Thermal Mug (Offered by Codice Plastico)
+DEBUG 2025-06-27 17:58:43,730 | --- Prize was rejected by Giovanni Alluvatti
+DEBUG 2025-06-27 17:58:53,996 | >>> Bruno Greco has won Thermal Mug (Offered by Codice Plastico)
+TRACE 2025-06-27 17:58:53,997 | >>> Mail: bruno@monade.io | Prize secret: 
+DEBUG 2025-06-27 17:58:53,997 | +++ Next prize is: Cap (Offered by Qomodo)
+DEBUG 2025-06-27 17:59:03,912 | --- Prize was rejected by Daniel Afonso
+DEBUG 2025-06-27 17:59:14,379 | --- Prize was rejected by Simone Colucci
+DEBUG 2025-06-27 17:59:21,029 | --- Prize was rejected by Gerardo Greco
+DEBUG 2025-06-27 17:59:27,214 | >>> Thomas Pellegrini has won Cap (Offered by Qomodo)
+TRACE 2025-06-27 17:59:27,215 | >>> Mail: thomas@serenis.it | Prize secret: 
+DEBUG 2025-06-27 17:59:27,215 | +++ Next prize is: Seaside Rackets (Offered by Aruba Kube)
+DEBUG 2025-06-27 17:59:51,179 | --- Prize was rejected by Riccardo Zoncada
+DEBUG 2025-06-27 18:00:12,495 | --- Prize was rejected by Gabriele Suerz
+DEBUG 2025-06-27 18:00:32,462 | >>> Ruggero Enrico Visintin has won Seaside Rackets (Offered by Aruba Kube)
+TRACE 2025-06-27 18:00:32,464 | >>> Mail: ruggerovisintin@gmail.com | Prize secret: 
+DEBUG 2025-06-27 18:00:32,464 | +++ Next prize is: WSC2026 ticket (Offered by Gabriele Santomaggio)
+DEBUG 2025-06-27 18:01:01,878 | --- Prize was rejected by Denis Stebunov
+DEBUG 2025-06-27 18:01:08,645 | >>> Alessandro Grigis has won WSC2026 ticket (Offered by Gabriele Santomaggio)
+TRACE 2025-06-27 18:01:08,645 | >>> Mail: alegrigis@gmail.com | Prize secret: 
+DEBUG 2025-06-27 18:01:08,646 | +++ Next prize is: nothing ()
+
