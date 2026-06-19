@@ -2,10 +2,14 @@ group = "it.intre"
 version = "2.0-SNAPSHOT"
 
 plugins {
-    id("org.jetbrains.kotlin.jvm") version "1.8.10"
-    id("org.openjfx.javafxplugin") version "0.0.9"
+    id("org.jetbrains.kotlin.jvm") version "1.9.24"
+    id("org.openjfx.javafxplugin") version "0.1.0"
 
     application
+}
+
+kotlin {
+    jvmToolchain(21)
 }
 
 repositories {
@@ -21,6 +25,7 @@ dependencies {
 }
 
 javafx {
+    version = "21.0.2"
     modules("javafx.controls", "javafx.fxml")
 }
 

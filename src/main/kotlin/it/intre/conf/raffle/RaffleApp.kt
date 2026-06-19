@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory
 import java.text.Normalizer
 
 /**
- * @author Damiano Salvi, Intré Srl
+ * @author Damiano Salvi, Intrï¿½ Srl
  */
 class RaffleApp : Application() {
 
@@ -130,9 +130,9 @@ fun String.asImage() = try {
 
 fun String.randomize(frac: Double) =
     Normalizer.normalize(this, Normalizer.Form.NFC)
-        .toLowerCase().toList().shuffled()
+        .lowercase().toList().shuffled()
         .take((frac * (2 - frac) * length).toInt()).joinToString("").split(" ")
-        .joinToString(" ") { it.capitalize() }
+        .joinToString(" ") { it.replaceFirstChar { c -> if (c.isLowerCase()) c.titlecase() else c.toString() } }
 
 fun log(s: String) = logger.debug(s)
 

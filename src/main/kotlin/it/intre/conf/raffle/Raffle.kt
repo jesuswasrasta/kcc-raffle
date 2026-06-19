@@ -19,7 +19,7 @@ class RndTestRaffle : Raffle(TrulyRandomEngine(Store(MemoryDataSource)), StdInOu
 
 class ActualRaffle : Raffle(TrulyRandomEngine(Store(CsvDataSource)), WindowOutput())
 
-fun main(args: Array<String>) {
+fun main() {
     val raffle =
             //ActualRaffle()
             RndTestRaffle()
